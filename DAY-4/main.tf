@@ -7,3 +7,4 @@ resource "aws_instance" "akash" {
     ami = "ami-<id>"
     subnet_id = "subnet-<id>"
 }
+
