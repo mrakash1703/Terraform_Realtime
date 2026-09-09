@@ -1,4 +1,5 @@
-C:\Users\AKASH\Desktop\Learning_Documents\GITHUB\Terraform_Realtime\Self-creation\.terraform
-C:\Users\AKASH\Desktop\Learning_Documents\GITHUB\Terraform_Realtime\Self-creation\terraform.tfstate
-C:\Users\AKASH\Desktop\Learning_Documents\GITHUB\Terraform_Realtime\Self-creation\terraform.tfstate.backup
-C:\Users\AKASH\Desktop\Learning_Documents\GITHUB\Terraform_Realtime\Self-creation\.terraform.lock.hcl
+Self-creation\.terraform
+Self-creation\.terraform\*
+Self-creation\terraform.tfstate
+Self-creation\terraform.tfstate.backup
+Self-creation\.terraform.lock.hcl
